@@ -27,11 +27,11 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt(a, 10)
+  return parseInt(n, 10)
 }
 
 function makeInt(n) {
-  return parseInt('a', 10)
+  return parseInt(, 10)
 }
 
 function makeInt(n) {
