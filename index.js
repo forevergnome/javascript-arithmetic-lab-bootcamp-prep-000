@@ -19,5 +19,5 @@ function inc(a) {
 }
 
 function inc(a) { 
-  return
+  return(a--)
 }
