@@ -31,9 +31,9 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt('n', 10)
+  return parseInt('a', 10)
 }
 
-function makeInt() {
-  return parseFloat(n)
+function makeInt(n) {
+  return parseFloat(a)
 }
